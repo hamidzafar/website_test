@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
+twitter_username: marytavakol
 github_username: username
 minimal_mistakes_skin: default
 search: true
@@ -60,27 +60,26 @@ plugins:
 author:
   name   : "Maryam Tavakol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am an Assistant Professor at the Uncertainty in AI group of Eindhoven University of Technology. Previously, I was a postdoctoral researcher in the AI group at TU Dortmund. Before that, I was a member of Machine Learning group at Leuphana University of Lüneburg as a Research Assistant, and pursuing my PhD in Machine Learning in the Computer Science department of TU Darmstadt. During my PhD, I spent a six-month internship at the Recommendation team of Criteo Company in France.
-I received both of my B.Sc. and M.Sc degrees in Computer Science from the University of Tehran, Iran."
+  bio    : "I am an Assistant Professor at the Uncertainty in AI group of Eindhoven University of Technology"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://uai.win.tue.nl/author/maryam-tavakol/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/marytavakol"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw graduation-cap"
       url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/marytavakol"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
