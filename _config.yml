@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Maryam Tavakol"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am an Assistant Professor at the Uncertainty in AI group of Eindhoven University of Technology. Previously, I was a postdoctoral researcher in the AI group at TU Dortmund. Before that, I was a member of Machine Learning group at Leuphana University of Lüneburg as a Research Assistant, and pursuing my PhD in Machine Learning in the Computer Science department of TU Darmstadt. During my PhD, I spent a six-month internship at the Recommendation team of Criteo Company in France.
+I received both of my B.Sc. and M.Sc degrees in Computer Science from the University of Tehran, Iran."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
